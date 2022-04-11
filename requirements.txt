@@ -1,8 +1,0 @@
-numpy
-ipywidgets
-nbinteract
-seaborn
-matplotlib.pyplot
-statistics
-sympy
-IPython.display
